@@ -1,0 +1,9 @@
+h1 {
+  background: skyblue;
+}
+body {
+  background-image: url("images/spiderman.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: bottom left;
+}
